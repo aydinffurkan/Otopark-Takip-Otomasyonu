@@ -1,0 +1,36 @@
+C:\Users\AYDINMOBİLYA\Desktop\Görsel Programlama Proje Ödevi\Proje 1\Soru 6\Soru 6\Soru 6\obj\Debug\Soru 6.csprojAssemblyReference.cache
+C:\Users\AYDINMOBİLYA\Desktop\Görsel Programlama Proje Ödevi\Proje 1\Soru 6\Soru 6\Soru 6\obj\Debug\Soru_6.AraçBilgileriForm.resources
+C:\Users\AYDINMOBİLYA\Desktop\Görsel Programlama Proje Ödevi\Proje 1\Soru 6\Soru 6\Soru 6\obj\Debug\Soru_6.AraçYerleri.resources
+C:\Users\AYDINMOBİLYA\Desktop\Görsel Programlama Proje Ödevi\Proje 1\Soru 6\Soru 6\Soru 6\obj\Debug\Soru_6.Form1.resources
+C:\Users\AYDINMOBİLYA\Desktop\Görsel Programlama Proje Ödevi\Proje 1\Soru 6\Soru 6\Soru 6\obj\Debug\Soru_6.Properties.Resources.resources
+C:\Users\AYDINMOBİLYA\Desktop\Görsel Programlama Proje Ödevi\Proje 1\Soru 6\Soru 6\Soru 6\obj\Debug\Soru 6.csproj.GenerateResource.cache
+C:\Users\AYDINMOBİLYA\Desktop\Görsel Programlama Proje Ödevi\Proje 1\Soru 6\Soru 6\Soru 6\obj\Debug\Soru 6.csproj.CoreCompileInputs.cache
+C:\Users\AYDINMOBİLYA\Desktop\Görsel Programlama Proje Ödevi\Proje 1\Soru 6\Soru 6\Soru 6\bin\Debug\Soru 6.exe.config
+C:\Users\AYDINMOBİLYA\Desktop\Görsel Programlama Proje Ödevi\Proje 1\Soru 6\Soru 6\Soru 6\bin\Debug\Soru 6.exe
+C:\Users\AYDINMOBİLYA\Desktop\Görsel Programlama Proje Ödevi\Proje 1\Soru 6\Soru 6\Soru 6\bin\Debug\Soru 6.pdb
+C:\Users\AYDINMOBİLYA\Desktop\Görsel Programlama Proje Ödevi\Proje 1\Soru 6\Soru 6\Soru 6\obj\Debug\Soru 6.exe
+C:\Users\AYDINMOBİLYA\Desktop\Görsel Programlama Proje Ödevi\Proje 1\Soru 6\Soru 6\Soru 6\obj\Debug\Soru 6.pdb
+C:\Users\AYDINMOBİLYA\Desktop\Soru 6\Soru 6\Soru 6\bin\Debug\Soru 6.exe.config
+C:\Users\AYDINMOBİLYA\Desktop\Soru 6\Soru 6\Soru 6\bin\Debug\Soru 6.exe
+C:\Users\AYDINMOBİLYA\Desktop\Soru 6\Soru 6\Soru 6\bin\Debug\Soru 6.pdb
+C:\Users\AYDINMOBİLYA\Desktop\Soru 6\Soru 6\Soru 6\obj\Debug\Soru 6.csprojAssemblyReference.cache
+C:\Users\AYDINMOBİLYA\Desktop\Soru 6\Soru 6\Soru 6\obj\Debug\Soru_6.AraçBilgileriForm.resources
+C:\Users\AYDINMOBİLYA\Desktop\Soru 6\Soru 6\Soru 6\obj\Debug\Soru_6.AraçYerleri.resources
+C:\Users\AYDINMOBİLYA\Desktop\Soru 6\Soru 6\Soru 6\obj\Debug\Soru_6.Form1.resources
+C:\Users\AYDINMOBİLYA\Desktop\Soru 6\Soru 6\Soru 6\obj\Debug\Soru_6.Properties.Resources.resources
+C:\Users\AYDINMOBİLYA\Desktop\Soru 6\Soru 6\Soru 6\obj\Debug\Soru 6.csproj.GenerateResource.cache
+C:\Users\AYDINMOBİLYA\Desktop\Soru 6\Soru 6\Soru 6\obj\Debug\Soru 6.csproj.CoreCompileInputs.cache
+C:\Users\AYDINMOBİLYA\Desktop\Soru 6\Soru 6\Soru 6\obj\Debug\Soru 6.exe
+C:\Users\AYDINMOBİLYA\Desktop\Soru 6\Soru 6\Soru 6\obj\Debug\Soru 6.pdb
+C:\Users\AYDINMOBİLYA\Desktop\GÖRSEL PROGRAMLAMA\C# proje ödevi 1\Soru 6\Soru 6\Soru 6\bin\Debug\Soru 6.exe.config
+C:\Users\AYDINMOBİLYA\Desktop\GÖRSEL PROGRAMLAMA\C# proje ödevi 1\Soru 6\Soru 6\Soru 6\bin\Debug\Soru 6.exe
+C:\Users\AYDINMOBİLYA\Desktop\GÖRSEL PROGRAMLAMA\C# proje ödevi 1\Soru 6\Soru 6\Soru 6\bin\Debug\Soru 6.pdb
+C:\Users\AYDINMOBİLYA\Desktop\GÖRSEL PROGRAMLAMA\C# proje ödevi 1\Soru 6\Soru 6\Soru 6\obj\Debug\Soru 6.csprojAssemblyReference.cache
+C:\Users\AYDINMOBİLYA\Desktop\GÖRSEL PROGRAMLAMA\C# proje ödevi 1\Soru 6\Soru 6\Soru 6\obj\Debug\Soru_6.AraçBilgileriForm.resources
+C:\Users\AYDINMOBİLYA\Desktop\GÖRSEL PROGRAMLAMA\C# proje ödevi 1\Soru 6\Soru 6\Soru 6\obj\Debug\Soru_6.AraçYerleri.resources
+C:\Users\AYDINMOBİLYA\Desktop\GÖRSEL PROGRAMLAMA\C# proje ödevi 1\Soru 6\Soru 6\Soru 6\obj\Debug\Soru_6.Form1.resources
+C:\Users\AYDINMOBİLYA\Desktop\GÖRSEL PROGRAMLAMA\C# proje ödevi 1\Soru 6\Soru 6\Soru 6\obj\Debug\Soru_6.Properties.Resources.resources
+C:\Users\AYDINMOBİLYA\Desktop\GÖRSEL PROGRAMLAMA\C# proje ödevi 1\Soru 6\Soru 6\Soru 6\obj\Debug\Soru 6.csproj.GenerateResource.cache
+C:\Users\AYDINMOBİLYA\Desktop\GÖRSEL PROGRAMLAMA\C# proje ödevi 1\Soru 6\Soru 6\Soru 6\obj\Debug\Soru 6.csproj.CoreCompileInputs.cache
+C:\Users\AYDINMOBİLYA\Desktop\GÖRSEL PROGRAMLAMA\C# proje ödevi 1\Soru 6\Soru 6\Soru 6\obj\Debug\Soru 6.exe
+C:\Users\AYDINMOBİLYA\Desktop\GÖRSEL PROGRAMLAMA\C# proje ödevi 1\Soru 6\Soru 6\Soru 6\obj\Debug\Soru 6.pdb
